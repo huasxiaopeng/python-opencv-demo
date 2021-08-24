@@ -1,0 +1,5 @@
+
+ppython:S117
+"YRename this local variable "transMat" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ßžÉ
+zpython:S117"WRename this local variable "rotMat" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü†ÍÃûÿÿÿÿ8µƒ§¯·/
+wpython:S117"TRename this parameter "rotPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ã»²þÿÿÿÿ8µƒ§¯·/
